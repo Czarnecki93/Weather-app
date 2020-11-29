@@ -1,1 +1,1 @@
-JavaScript school assignment 5
+JavaScript school assignment 5.
