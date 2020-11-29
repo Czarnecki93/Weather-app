@@ -1,0 +1,1 @@
+JavaScript school assignment 5
